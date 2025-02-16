@@ -20,8 +20,8 @@
 
 <div align="center">
   <div display="flex">
-    <img display="flex" src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=Quin-shi-huan&theme=midnight-purple&hide_border=true"/>
+    <img display="flex" width="363px" src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img display="flex" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Quin-shi-huan&theme=midnight-purple&hide_border=true"/>
   </div>
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
