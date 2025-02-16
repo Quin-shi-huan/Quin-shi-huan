@@ -18,7 +18,7 @@
 <h1 align="center">📊 GitHub Stats 📊</h1>
 
 <div display="flex" align="center">
-   <div>
+   <div display="flex">
       <img src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quin-shi-huan&theme=midnight-purple&hide_border=true"/>
    </div>
