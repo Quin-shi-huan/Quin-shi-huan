@@ -17,10 +17,9 @@
 
 <h1 align="center">📊 GitHub Stats 📊</h1>
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quin-shi-huan&theme=midnight-purple&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Quin-shi-huan&theme=midnight-purple&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 <h1 align="center">🔮 Top Contributed Repo 🔮</h1>
