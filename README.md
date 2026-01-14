@@ -1,18 +1,27 @@
 <p align="center"> 
-  <img src="https://count.getloli.com/@:Quin-shi-huan?theme=booru-lisu" alt=":Quin-shi-huan?theme=booru-lisu"/>
+    
+   <img src="https://count.getloli.com/@Quin-shi-huan?name=Quin-shi-huan&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=0"/>
+
   <br/>
   
-<!-- For future use !!!  
-   <img src="https://count.getloli.com/@:Quin-shi-huan?theme=ai-1" alt=":Quin-shi-huan?theme=ai-1"/>
-  <br/>
+<!-- For future use !!!
+  <img src="https://count.getloli.com/@Quin-shi-huan?name=Quin-shi-huan&theme=asoul&padding=7&offset=0&align=bottom&scale=2&pixelated=1&darkmode=0"/>
+
+  <img src="https://count.getloli.com/@Quin-shi-huan?name=Quin-shi-huan&theme=gelbooru&padding=7&offset=0&align=bottom&scale=1&pixelated=1&darkmode=0"/>
+   
+  <img src="https://count.getloli.com/@:Quin-shi-huan?theme=booru-lisu" alt=":Quin-shi-huan?theme=booru-lisu"/>
+  
+  <img src="https://count.getloli.com/@Quin-shi-huan?name=Quin-shi-huan&theme=gelbooru-h&padding=6&offset=5&align=top&scale=2&pixelated=1&darkmode=1&prefix=0"/> h!
+
+  <img src="https://count.getloli.com/@:Quin-shi-huan?theme=ai-1" alt=":Quin-shi-huan?theme=ai-1"/>
+
   <img src="https://count.getloli.com/@:Quin-shi-huan?theme=booru-helltaker" alt=":Quin-shi-huan?theme=booru-helltaker"/>
-  <br/>
+
   <img src="https://count.getloli.com/@:Quin-shi-huan?theme=booru-lewd" alt=":Quin-shi-huan?theme=booru-lewd"/>
-  <br/>
+
   <img src="https://count.getloli.com/@:Quin-shi-huan?theme=booru-vp" alt=":Quin-shi-huan?theme=booru-vp"/>
-  <br/>
+
   <img src="https://count.getloli.com/@:Quin-shi-huan?theme=booru-mjg" alt=":Quin-shi-huan?theme=booru-mjg"/>
-  <br/> 
   
   -->
 </p>
