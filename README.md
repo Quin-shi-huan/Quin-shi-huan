@@ -26,12 +26,12 @@
   -->
 </p>
 
-<h1 align="center">👾 About Me 👾</h1>
+<h1 align="center">🌸 About Me 🌸</h1>
 <p align="center">
   <strong>My name is Eduardo, I'm 20 years old.</strong><br><br>I am currently studying web programming <br>to create and develop quick and efficient <br>solutions to daily problems.<br><br><strong>“Quantity != Quality”</strong>
 </p>
 
-<h1 align="center">🟣 Socials 🟣</h1>
+<h1 align="center">🌸 Socials 🌸</h1>
 
 <p align="center">
   <br/>
@@ -39,7 +39,7 @@
   <br/>
 </p>
 
-<h1 align="center">🟣 Tech Stack 🟣</h1>
+<h1 align="center">🌸 Tech Stack 🌸</h1>
 
 <div align=center>
 
@@ -56,22 +56,10 @@
 
 </div>
 
-<h1 align="center">🟣 GitHub Stats 🟣</h1>
+<h1 align="center">🌸 GitHub Stats 🌸</h1>
 
 <div align="center">
   <div display="flex">
-    <img display="flex" width="363px" src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img display="flex" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Quin-shi-huan&theme=midnight-purple&hide_border=true"/>
+    <img display="flex" width="500px" src="https://nirzak-streak-stats.vercel.app/?user=Quin-shi-huan&theme=buefy&hide_border=true"/>
   </div>
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quin-shi-huan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-
 </div>
-
-
-<h1 align="center">🟣 Top Contributed Repo 🟣</h1>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Quin-shi-huan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"/>
-</div>
-
-
