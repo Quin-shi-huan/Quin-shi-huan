@@ -28,7 +28,7 @@
 
 <h1 align="center">🌸 About Me 🌸</h1>
 <p align="center">
-  <strong>My name is Eduardo, I'm 20 years old.</strong><br><br>I am currently studying web programming <br>to create and develop quick and efficient <br>solutions to daily problems.<br><br><strong>“Quantity != Quality”</strong>
+  <strong>My name is Eduardo, I'm 21 years old.</strong><br><br>I am currently studying web programming <br>to create and develop quick and efficient <br>solutions to daily problems.<br><br><strong>“Quantity != Quality”</strong>
 </p>
 
 <h1 align="center">🌸 Socials 🌸</h1>
