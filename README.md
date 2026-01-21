@@ -60,6 +60,6 @@
 
 <div align="center">
   <div display="flex">
-    <img display="flex" width="500px" src="https://nirzak-streak-stats.vercel.app/?user=Quin-shi-huan&theme=buefy&hide_border=true"/>
+   <img display="flex" width="500px" src="https://github-readme-stats.vercel.app/api?username=Quin-shi-huan&show_icons=true&theme=dracula"/>
   </div>
 </div>
